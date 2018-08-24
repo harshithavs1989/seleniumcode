@@ -5,6 +5,9 @@ public class NewTest {
 	public static void main(String[] args) {
 		System.out.println("Hello");
 		System.out.println("Bye");
-		System.out.println("line1");
+		if(1==2)
+		{
+			System.out.println("I am hopeless in maths");
+		}
 	}
 }
